@@ -1,0 +1,12 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+labelforge.db
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.env
